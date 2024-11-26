@@ -1,10 +1,10 @@
 LoRA Tag Loader for ComfyUI - Chinese support
 =======
 ### 这是我用ChatGPT改的版本，支持中文，不知道能不能支持中文和英文之外的语言，
-原项目地址：<a href="https://github.com/badjeff/comfyui_lora_tag_loader" >(https://github.com/badjeff/comfyui_lora_tag_loader)</a>
+原项目地址：<a href="https://github.com/badjeff/comfyui_lora_tag_loader" >https://github.com/badjeff/comfyui_lora_tag_loader</a>
 怎么使用可以去原作者那里看。
 ### This is the version I changed with ChatGPT, which supports Chinese. I wonder if I can support languages other than Chinese and English.
-Original project address:<a href="https://github.com/badjeff/comfyui_lora_tag_loader" >(https://github.com/badjeff/comfyui_lora_tag_loader)</a>
+Original project address:<a href="https://github.com/badjeff/comfyui_lora_tag_loader" >https://github.com/badjeff/comfyui_lora_tag_loader</a>
 How to use it can be seen by the original author.
 
 
