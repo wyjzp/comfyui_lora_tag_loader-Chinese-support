@@ -1,5 +1,8 @@
 LoRA Tag Loader for ComfyUI - Chinese support
 =======
+### 作用：
+直接在这个节点里面输入<lora:模型名字:权重>，然后把文本（STRING）连到CLIP文本编码器，生成的图片就直接带lora了，而且支持输入多个lora，就不用再去加lora加载器的节点了
+
 ### 这是我用ChatGPT改的版本，支持中文，不知道能不能支持中文和英文之外的语言，
 原项目地址：<a href="https://github.com/badjeff/comfyui_lora_tag_loader" >https://github.com/badjeff/comfyui_lora_tag_loader</a>
 怎么使用可以去原作者那里看。
